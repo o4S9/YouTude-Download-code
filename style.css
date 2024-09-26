@@ -78,4 +78,17 @@ button{
 }
 a{
     text-decoration: none;
+    
+}
+#btn0{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    background-color: white;
+    color: black;
+}
+
+#btn0:focus{
+    background-color: black;
+    color: #ffffff;
 }
